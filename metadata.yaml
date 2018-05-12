@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41344'
     url: http://www.gutenberg.org/2009/agents/41344
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41762#The-Queer-the-Quaint-and-the-QuizzicalA-Cabinet-for-the-Curious
 gutenberg_issued: '2013-01-02'
 gutenberg_type: Text
 identifiers:
